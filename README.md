@@ -22,11 +22,11 @@
 
 Desenvolvedor Full Stack com mais de 2 anos de experiência profissional no desenvolvimento, manutenção e sustentação de sistemas web, APIs RESTful, integrações entre serviços e bancos de dados relacionais.
 
-Meu foco principal está no ecossistema **C# / .NET**, desenvolvimento frontend com **Angular** e ambientes cloud (**AWS** e **Azure**)[cite: 1]. Tenho atuação prática na resolução de gargalos de performance em produção, otimização de consultas e procedures SQL, controle de concorrência e construção de aplicações testáveis com foco em segurança e manutenibilidade[cite: 1].
+Meu foco principal está no ecossistema **C# / .NET**, desenvolvimento frontend com **Angular** e ambientes cloud (**AWS** e **Azure**). Tenho atuação prática na resolução de gargalos de performance em produção, otimização de consultas e procedures SQL, controle de concorrência e construção de aplicações testáveis com foco em segurança e manutenibilidade.
 
 * **Localização:** Cachoeiro de Itapemirim, ES, Brasil
-* **Formação:** Bacharelado em Sistemas de Informação (em andamento)[cite: 1]
-* **Idiomas:** Português (Nativo) | Inglês (Avançado)[cite: 1]
+* **Formação:** Bacharelado em Sistemas de Informação (em andamento)
+* **Idiomas:** Português (Nativo) | Inglês (Avançado)
 
 ## Stack técnica
 
@@ -38,11 +38,11 @@ Meu foco principal está no ecossistema **C# / .NET**, desenvolvimento frontend 
 
 | Área | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Backend & APIs** | C#, .NET / ASP.NET Core, Entity Framework Core, Java, Spring Boot, Node.js, APIs RESTful, Mensageria (Kafka, SQS/SNS)[cite: 1] |
-| **Frontend** | Angular, TypeScript, JavaScript (ES6+), RxJS, React, HTML5, CSS3[cite: 1] |
-| **Dados & Cache** | PostgreSQL, SQL Server, Oracle PL/SQL, MySQL, SQLite, Redis, Otimização de Queries e Stored Procedures[cite: 1] |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda, API Gateway), Microsoft Azure (App Service, Azure SQL, Blob Storage, Azure DevOps), Docker, Docker Compose, CI/CD, Git[cite: 1] |
-| **Engenharia & Qualidade** | Arquitetura em Camadas, POO, SOLID, Clean Code, Design Patterns, Testes Unitários (xUnit, JUnit 5, Moq, Mockito)[cite: 1] |
+| **Backend & APIs** | C#, .NET / ASP.NET Core, Entity Framework Core, Java, Spring Boot, Node.js, APIs RESTful, Mensageria (Kafka, SQS/SNS) |
+| **Frontend** | Angular, TypeScript, JavaScript (ES6+), RxJS, React, HTML5, CSS3 |
+| **Dados & Cache** | PostgreSQL, SQL Server, Oracle PL/SQL, MySQL, SQLite, Redis, Otimização de Queries e Stored Procedures |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda, API Gateway), Microsoft Azure (App Service, Azure SQL, Blob Storage, Azure DevOps), Docker, Docker Compose, CI/CD, Git |
+| **Engenharia & Qualidade** | Arquitetura em Camadas, POO, SOLID, Clean Code, Design Patterns, Testes Unitários (xUnit, JUnit 5, Moq, Mockito) |
 
 ## Projetos em destaque
 
@@ -55,7 +55,7 @@ Meu foco principal está no ecossistema **C# / .NET**, desenvolvimento frontend 
   <a href="https://github.com/m2theuss/overload-csharp"><img src="https://img.shields.io/badge/Testes-29%20aprovados-2F855A?style=flat-square" alt="29 testes aprovados" /></a>
 </p>
 
-API RESTful desenvolvida em C# e ASP.NET Core 10 para gerenciamento de catálogos de exercícios e organização de rotinas semanais de treino[cite: 1]. O projeto implementa autenticação stateless com JWT, proteção de senhas com BCrypt, controle de acesso por proprietário e tratamento padronizado de exceções com `ProblemDetails`[cite: 1].
+API RESTful desenvolvida em C# e ASP.NET Core 10 para gerenciamento de catálogos de exercícios e organização de rotinas semanais de treino. O projeto implementa autenticação stateless com JWT, proteção de senhas com BCrypt, controle de acesso por proprietário e tratamento padronizado de exceções com `ProblemDetails`.
 
 * **Arquitetura e persistência:** Separação em camadas (Controllers, Services, DTOs, Entities, Data e Exceptions) com Entity Framework Core, migrations e PostgreSQL.
 * **Qualidade e testes:** Suíte com 29 testes unitários automatizados utilizando xUnit, Moq e SQLite em memória, validando regras de domínio e autenticação sem depender de banco externo.
@@ -85,8 +85,8 @@ Aplicação bancária desenvolvida em Java puro para consolidar fundamentos de a
 
 * **Manutenibilidade e Clareza:** Código estruturado com responsabilidades bem definidas, nomes expressivos e complexidade proporcional ao problema.
 * **Contratos e Confiabilidade:** APIs RESTful com validação rigorosa de entrada, autenticação segura e tratamento consistente de erros.
-* **Performance e Dados:** Atenção contínua a planos de execução, controle de concorrência em transações e modelagem relacional eficiente[cite: 1].
-* **Testabilidade e Entrega:** Automação de testes unitários no padrão AAA e configuração externalizada para ambientes reproduzíveis[cite: 1].
+* **Performance e Dados:** Atenção contínua a planos de execução, controle de concorrência em transações e modelagem relacional eficiente.
+* **Testabilidade e Entrega:** Automação de testes unitários no padrão AAA e configuração externalizada para ambientes reproduzíveis.
 
 ## Contato
 
